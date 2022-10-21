@@ -1,0 +1,22 @@
+
+.doodle{
+    background-image: url('./Doodle4.png');
+    background-repeat: no-repeat;
+    width: 20vw;
+    height: 10vw;
+    background-size: contain;
+    position: relative;
+    top: -300vh;
+    left: 30vh;
+}
+.doodle2{
+    background-image: url('./Doodle4.png');
+    transform: rotate(90deg);
+    background-repeat: no-repeat;
+    width: 20vw;
+    height: 10vw;
+    background-size: contain;
+    position: relative;
+    top: -290vh;
+    left: 130vh;
+}
