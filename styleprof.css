@@ -1,0 +1,24 @@
+.quotebox {
+
+    padding-left: 10px;
+    font-size: 50px;
+    background-color: #FF4141;
+    width: 4vw;
+    height: 4vw;
+    position: absolute;
+    top: 46vw;
+    left: 73vw;
+    color: white;
+}
+
+.profilebox {
+    padding: 0px 20px;
+    font-size: 50px;
+    background-color: #211D70;
+    width: 13vw;
+    height: 5vw;
+    position: absolute;
+    top: 50vw;
+    left: 73vw;
+    color: white;
+}
