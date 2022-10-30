@@ -3,11 +3,11 @@
     padding-left: 10px;
     font-size: 50px;
     background-color: #FF4141;
-    width: 4vw;
-    height: 4vw;
+    width: 58px;
+    height: 58px;
     position: absolute;
-    top: 46vw;
-    left: 73vw;
+    top: 663px;
+    right: 321px;
     color: white;
 }
 
@@ -15,10 +15,10 @@
     padding: 0px 20px;
     font-size: 50px;
     background-color: #211D70;
-    width: 13vw;
-    height: 5vw;
+    width: 146px;
+    height: 72px;
     position: absolute;
-    top: 50vw;
-    left: 73vw;
+    top: 720px;
+    right: 203px;
     color: white;
 }
